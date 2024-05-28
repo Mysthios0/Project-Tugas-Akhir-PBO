@@ -53,14 +53,13 @@ namespace Project_Akhir_PBO.views
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void Register_Load(object sender, EventArgs e)
         {
 
         }
+
+        
     }
 }

@@ -43,3 +43,48 @@ C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug
 C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Register.resources
 C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CopyComplete
 C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Menu.resources
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe.config
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.pdb
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Npgsql.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Buffers.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Memory.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Text.Json.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.dll
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\Npgsql.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Buffers.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Memory.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Text.Json.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.xml
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.AssemblyReference.cache
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.login.resources
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Properties.Resources.resources
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.menu.resources
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.register.resources
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.GenerateResource.cache
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CoreCompileInputs.cache
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project .FEFC6233.Up2Date
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.exe
+D:\github\Project-Tugas-Akhir-PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.pdb
